@@ -1,6 +1,6 @@
 {
   "name": "component-will-mount-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is isomorphic hook similar to componentWillMount lifecycle method, which is available in Class Components of react",
   "main": "index.js",
   "scripts": {
