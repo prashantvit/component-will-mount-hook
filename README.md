@@ -1,4 +1,4 @@
-# [[![npm version]](https://www.npmjs.com/package/component-will-mount-hook)
+# [React](https://reactjs.org/) &middot; [![npm version](https://img.shields.io/npm/v/component-will-mount-hook.svg?style=flat)](https://www.npmjs.com/package/component-will-mount-hook)
 
 component-will-mount-hook is an isomorphic hook which for functional components, which behaves in similar fashion to componentWilllMount lifecycle Method.
 
@@ -8,7 +8,7 @@ componentWillMount() is invoked just before mounting occurs. It is called before
 Avoid introducing any side-effects or subscriptions in this method. For those use cases, use componentDidMount() instead.
 This is the only lifecycle method called on server rendering.
 
-## Why component-will-
+## Why component-will-mount-hook?
 
 * **componentWillMount for functional components:** This can be used in the similar fashion as we use componentWillMount in class based components.
 * **Hook-Based:** This can be used like any other hook in React like useEffect(), useRef().
