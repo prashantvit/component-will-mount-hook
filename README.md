@@ -1,4 +1,4 @@
-# [component-will-mount-hook](https://reactjs.org/) &middot; [![npm version](https://img.shields.io/npm/v/component-will-mount-hook.svg?style=flat)](https://www.npmjs.com/package/component-will-mount-hook)
+# [component-will-mount-hook](https://www.npmjs.com/package/component-will-mount-hook) &middot; [![npm version](https://img.shields.io/npm/v/component-will-mount-hook.svg?style=flat)](https://www.npmjs.com/package/component-will-mount-hook)
 
 component-will-mount-hook is an isomorphic hook which for functional components, which behaves in similar fashion to componentWilllMount lifecycle Method.
 
