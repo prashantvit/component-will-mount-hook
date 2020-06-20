@@ -1,7 +1,7 @@
 {
   "name": "component-will-mount-hook",
-  "version": "1.0.0",
-  "description": "This hook is similar to componentWillMount lifecycle method, which is available in Class Components of react",
+  "version": "1.0.1",
+  "description": "This is isomorphic hook similar to componentWillMount lifecycle method, which is available in Class Components of react",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,5 +27,9 @@
     "componentWillMount"
   ],
   "author": "Prashant Choudhary",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/prashantvit/component-will-mount-hook.git"
+  }
 }
