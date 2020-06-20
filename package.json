@@ -1,0 +1,31 @@
+{
+  "name": "component-will-mount-hook",
+  "version": "1.0.0",
+  "description": "This hook is similar to componentWillMount lifecycle method, which is available in Class Components of react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": ">= 16.12.0",
+    "react-dom": ">=16.12.0"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "React",
+    "Hooks",
+    "componentWillMount",
+    "componentWillMount",
+    "hooks",
+    "componentWillMount",
+    "react",
+    "hooks",
+    "custom",
+    "hook",
+    "react",
+    "componentWillMount"
+  ],
+  "author": "Prashant Choudhary",
+  "license": "ISC"
+}
